@@ -1,2 +1,2 @@
 # Metaverse-transaction-fraud-detection-DS-project
-ML classification project on Metaverse transactions 
+Machine learning multiclass classification project detecting frauduluent transactions based on the risk of the transaction.
